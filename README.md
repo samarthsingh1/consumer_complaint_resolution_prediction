@@ -1,6 +1,6 @@
 # 🏦 Consumer Complaint Prediction: Logistic Regression vs. Random Forest
 
-This project compares the performance of **Logistic Regression** (linear model) and **Random Forest Classifier** (tree-based model) to predict consumer complaint outcomes. The dataset is sourced from the [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/data-research/consumer-complaints/) and includes detailed complaint data. The analysis explores the impact of data preprocessing, feature selection, class imbalance, and feature scaling on model performance.
+This project compares the performance of **Logistic Regression** (linear model) and **Random Forest Classifier** (tree-based model) to predict consumer complaint outcomes by perfomance benchmarks. The dataset is sourced from the [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/data-research/consumer-complaints/) and includes detailed complaint data. The analysis explores the impact of data preprocessing, feature selection, class imbalance, and feature scaling on model performance.
 
 ---
 
